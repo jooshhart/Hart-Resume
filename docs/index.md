@@ -17,8 +17,11 @@ Future Computer Science Major.
 `Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.5 computer Science Major GPA
+3.5 computer Science Major GPA
 
+## Languages Learned
+
+Python | HTML | CSS | Javascript | C++ | Java | C# | Erlang
 
 ## Related Experience
 
